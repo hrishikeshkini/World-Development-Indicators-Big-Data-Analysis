@@ -1,7 +1,11 @@
-# World Development Indicators Analysis using Apache Spark
+# Project Documentation: World Development Indicators Analysis using Apache Spark
 
 ## Overview
 This project focuses on analyzing the World Development Indicators dataset using Apache Spark in Scala. The World Development Indicators, sourced from the World Bank, encompass over a thousand annual indicators of economic development from numerous countries worldwide.
+
+## Demo and Dataset
+- **Live Hosted Analysis:** [Demo Link Here](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3700805751791550/2713718329253533/179088191388412/latest.html)
+- **Dataset Source:** [World Bank - World Development Indicators](https://www.kaggle.com/datasets/kaggle/world-development-indicators)
 
 ## Project Objective
 The primary objective of this project is to provide a learning experience in analyzing data, specifically the World Development Indicators, using Apache Spark within the Databricks Notebook (Community edition). The project aims to cover the fundamental flow of data in Apache Spark, including loading and working with data. By doing so, it showcases how Apache Spark is an ideal tool for Big Data Analysis jobs. The key objectives include:
